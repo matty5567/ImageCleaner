@@ -132,3 +132,5 @@ dmypy.json
 *jpg
 
 **/.vscode/
+
+.DS_Store
