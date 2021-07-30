@@ -1,6 +1,6 @@
 # ImageCleaner
 
-Exploring ways to remove moving objects in images to leave just background
+Exploring ways to remove moving objects in images to leave just the background
 
 methods:
 
