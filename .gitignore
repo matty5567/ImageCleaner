@@ -131,6 +131,6 @@ dmypy.json
 *mp4
 *jpg
 
-**/.vscode/
+.vscode/*
 
 .DS_Store
